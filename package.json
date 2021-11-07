@@ -1,0 +1,19 @@
+{
+  "name": "social-app-api",
+  "version": "1.0.0",
+  "description": "Mern Stack API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhopals/social-app-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhopals/social-app-api/issues"
+  },
+  "homepage": "https://github.com/bhopals/social-app-api#readme"
+}

@@ -19,7 +19,7 @@ mongoose.connect(
 
 const app = express();
 
-// middleware
+// express middleware
 app.use(express.json());
 app.use(helmet());
 app.use(morgan("common"));
